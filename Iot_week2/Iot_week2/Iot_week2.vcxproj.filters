@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\0513">
+      <UniqueIdentifier>{9d4ee95a-8ba5-4dc7-891b-9d8325ab8462}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0514">
+      <UniqueIdentifier>{499a8368-ae70-4ae1-99fd-e5c449156631}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BOJ">
+      <UniqueIdentifier>{c0e803cd-149b-46ca-8060-6bae291ef250}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="548_ReadStringRight.c">
+      <Filter>소스 파일\0513</Filter>
+    </ClCompile>
+    <ClCompile Include="FirstFileRead.c">
+      <Filter>소스 파일\0513</Filter>
+    </ClCompile>
+    <ClCompile Include="StarbucksConsole.cpp">
+      <Filter>소스 파일\0513</Filter>
+    </ClCompile>
+    <ClCompile Include="0514_RemoveBSN.cpp">
+      <Filter>소스 파일\0514</Filter>
+    </ClCompile>
+    <ClCompile Include="EnumTypeTone.c">
+      <Filter>소스 파일\0514</Filter>
+    </ClCompile>
+    <ClCompile Include="P_String.c">
+      <Filter>소스 파일\0514</Filter>
+    </ClCompile>
+    <ClCompile Include="Preproc.cpp">
+      <Filter>소스 파일\0514</Filter>
+    </ClCompile>
+    <ClCompile Include="StarBucks_3.c">
+      <Filter>소스 파일\0514</Filter>
+    </ClCompile>
+    <ClCompile Include="static.cpp">
+      <Filter>소스 파일\0514</Filter>
+    </ClCompile>
+    <ClCompile Include="StringCompCase.c">
+      <Filter>소스 파일\0514</Filter>
+    </ClCompile>
+    <ClCompile Include="StringConcatCase.c">
+      <Filter>소스 파일\0514</Filter>
+    </ClCompile>
+    <ClCompile Include="StringCopycase.cpp">
+      <Filter>소스 파일\0514</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_Pra.cpp">
+      <Filter>소스 파일\0514</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_Pra1.cpp">
+      <Filter>소스 파일\0514</Filter>
+    </ClCompile>
+    <ClCompile Include="UnionMemAlloc.c">
+      <Filter>소스 파일\0514</Filter>
+    </ClCompile>
+    <ClCompile Include="boj_2468.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="선린_천하제일_예선_A.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="선린_천하제일_예선_C.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="input.txt">
+      <Filter>소스 파일</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
