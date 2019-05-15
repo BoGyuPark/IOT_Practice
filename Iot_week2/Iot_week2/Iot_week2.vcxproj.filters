@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\0514">
       <UniqueIdentifier>{499a8368-ae70-4ae1-99fd-e5c449156631}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\0515">
+      <UniqueIdentifier>{8aaa7d0b-cf5a-41f1-84e4-1c0a7edf9e0f}</UniqueIdentifier>
+    </Filter>
     <Filter Include="소스 파일\BOJ">
       <UniqueIdentifier>{c0e803cd-149b-46ca-8060-6bae291ef250}</UniqueIdentifier>
     </Filter>
@@ -76,6 +79,33 @@
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
     <ClCompile Include="선린_천하제일_예선_C.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer.cpp">
+      <Filter>소스 파일\0513</Filter>
+    </ClCompile>
+    <ClCompile Include="선린_천하제일_예선_E.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="선린_천하제일_예선_D.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="선린_천하제일_예선_B.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="선린_천하제일_본선_A.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="선린_천하제일_본선_C.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="선린_천하제일_본선_G.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="선린_천하제일_본선_J.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="선린_천하제일_본선_I.cpp">
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
   </ItemGroup>
