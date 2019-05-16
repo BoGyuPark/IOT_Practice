@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\BOJ">
       <UniqueIdentifier>{c0e803cd-149b-46ca-8060-6bae291ef250}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\SWEA">
+      <UniqueIdentifier>{18771606-5061-476c-854d-b95f1ee7c253}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="548_ReadStringRight.c">
@@ -105,8 +108,17 @@
     <ClCompile Include="선린_천하제일_본선_J.cpp">
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
-    <ClCompile Include="선린_천하제일_본선_I.cpp">
-      <Filter>소스 파일\BOJ</Filter>
+    <ClCompile Include="SWEA_4613.cpp">
+      <Filter>소스 파일\SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA_3347.cpp">
+      <Filter>소스 파일\SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA_1861.cpp">
+      <Filter>소스 파일\SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA_5432.cpp">
+      <Filter>소스 파일\SWEA</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
