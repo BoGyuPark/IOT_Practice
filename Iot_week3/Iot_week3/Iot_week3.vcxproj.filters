@@ -24,6 +24,12 @@
     <ClCompile Include="BOJ_17211.cpp">
       <Filter>소스 파일\0521</Filter>
     </ClCompile>
+    <ClCompile Include="SWEA_3752.cpp">
+      <Filter>소스 파일\0521</Filter>
+    </ClCompile>
+    <ClCompile Include="test.c">
+      <Filter>소스 파일\0521</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
